@@ -38,5 +38,12 @@
 -   [Wprowadzenie do literatury Oświecenia. Ignacy Krasicki - Sylwetka Kurcy](klasa2/wprowadzenie-do-literatury-oswiecenia-ignacy-krasicki-sylwetka-kurcy.md)
 -   [Oświecenie - kartkówka](klasa2/oswiecenie-kartkowka.md)
 -   [Sentymentalna twórczość Franciszka Karpińskiego](klasa2/sentymentalna-tworczosc-franciszka-karpinskiego.md)
+-   [OŚWIECENIE KARTA PRACY NR 4](klasa2/oswiecenie-karta-pracy-nr-4.md)
+-   [Piewca miłości tkliwej](klasa2/piewca-milosci-tkliwej.md)
+-   [Pieśni nabożne Franciszka Karpińskiego](klasa2/piesni-nabozne-franciszka-karpinskiego.md)
+-   [Romantyzm - wprowadzenie do epoki](klasa2/romantyzm-wprowadzenie-do-epoki.md)
+-   [Wprowadzenie do literatury romantycznej](klasa2/wprowadzenie-do-literatury-romantycznej.md)
+-   [Wprowadzenie do analizy “Dziadów cz. 3” Adama Mickiewicza](klasa2/wprowadzenie-do-analizy-dziadow-cz-3-adama-mickiewicza.md)
+-   [Eksplozja uczuć w Dziadach cz.3 - czyli o kreacji Gustawa-Konrada](klasa2/eksplozja-uczuc-w-dziadach-cz-3-czyli-o-kreacji-gustawa-konrada.md)
 
 -   [Wprowadzenie do analizy “Kordiana” Juliusza Słowackiego](klasa2/wprowadzenie-do-analizy-kordiana-juliusza-slowackiego.md)
