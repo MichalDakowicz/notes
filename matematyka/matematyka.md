@@ -12,3 +12,4 @@
 ### Klasa 2
 
 -   [Funkcje trygonometryczne kąta wypukłego](klasa2/funkcje-trygonometryczne-kata-wypuklego.excalidraw.png)
+-   [Pole trójkąta](klasa2/pole-trojkata.excalidraw.png)
