@@ -13,9 +13,3 @@
 9. [Chemia](chemia/chemia.md)
 10. [Geografia](geografia/geografia.md)
 11. [Podstawy Przedsiębiorczości](podstawy_przedsiebiorczosci/podstawy_przedsiebiorczosci.md)
-
-```
-$$
-\displaystyle\sum_{k=3}^5 k^2=3^2 + 4^2 + 5^2 =50
-$$
-```

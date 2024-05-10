@@ -9,6 +9,6 @@
 
 ### Klasa 1
 
-### Klasa 2
+-   [Układ Nerwowy](klasa1/uklad-nerwowy.md)
 
--   []
+### Klasa 2
