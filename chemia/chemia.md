@@ -47,3 +47,4 @@
 
 -   [Roztwory](klasa2/roztwory.md)
 -   [Rozdział mieszanin](klasa2/rozdzial-mieszanin.md)
+-   [Rozpuszczalność substancji](klasa2/rozpuszczalnosc-substancji.md)
