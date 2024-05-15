@@ -95,10 +95,9 @@ Ob = \space ?
 `$
 
 $`
-\begin{align}
-P = \frac{e \cdot f}{2} \cdot \sin \gamma = 16\sqrt{2} \\
-16\sqrt{2} = \frac{3}{2} x^2 \cdot \frac{2\sqrt{2}}{3} x^2 = 16 \\
-x = 4 \vee x = -4 \notin \mathbb{D} \\
+P = \frac{e \cdot f}{2} \cdot \sin \gamma = 16\sqrt{2} \newline
+16\sqrt{2} = \frac{3}{2} x^2 \cdot \frac{2\sqrt{2}}{3} x^2 = 16 \newline
+x = 4 \vee x = -4 \notin \mathbb{D} \newline
 P\triangle = 6 \cdot \frac{2\sqrt{2}}{3} = 4\sqrt{2}
-\end{align}
+
 `$
