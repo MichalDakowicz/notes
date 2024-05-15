@@ -12,7 +12,9 @@ $
 P = a \cdot b \cdot \sin \alpha
 $
 
-$`P = \frac{e \cdot f}{2} \cdot \sin \gamma`$
+$`
+P = \frac{e \cdot f}{2} \cdot \sin \gamma
+`$
 
 ### Ćwiczenie 3
 
