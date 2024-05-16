@@ -119,11 +119,17 @@ h_1 = 1, h_2 = 2
 
 ### Zadanie 3/
 
-$$
-P = 16\sqrt{2} \space cm^2 \\
-sin \gamma = \frac{2\sqrt{2}}{3} \\
+$`
+P = 16\sqrt{2} \space cm^2
+`$
+
+$`
+sin \gamma = \frac{2\sqrt{2}}{3}
+`$
+
+$`
 Ob = \space ?
-$$
+`$
 
 <br>
 
