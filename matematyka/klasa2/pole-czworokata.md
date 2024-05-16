@@ -96,8 +96,8 @@ a \cdot b = 32
 
 $`
 \left\{ \begin{array}{l}
-a+b=12 \\
-a*b=32 \\
+a + b=12 \\
+a \cdot b=32 \\
 \end{array} \right.
 `$
 
