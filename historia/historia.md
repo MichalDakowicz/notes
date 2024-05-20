@@ -44,4 +44,4 @@
 -   [Gra strategiczna](klasa2/gra-strategiczna.md)
 
 -   [Początki panowania Stanisława Augusta Poniatowskiego](klasa2/poczatki-panowania-stanislawa-augusta-poniatowskiego.md)
-
+-   [Pierwszy rozbiór Polski](klasa2/pierwszy-rozbiór-polski.md)
