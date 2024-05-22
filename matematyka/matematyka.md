@@ -16,3 +16,4 @@
 -   [Pole trójkąta - wzór Herona](klasa2/pole-trojkata-wzor-herona.md)
 -   [Pole czworokąta](klasa2/pole-czworokata.md)
 -   [Powtórzenie wiadości z trygonometrii](klasa2/powtorzenie-wiadosci-z-trygonometrii.md)
+-   [Okręgi](klasa2/okregi.md)

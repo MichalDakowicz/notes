@@ -18,3 +18,5 @@
 -   [Organizations](klasa2/organizations.md)
 -   [Mock test - wyrażanie żalu albo życzeń](klasa2/mock-test-wyrazenie-zalu-albo-zyczen.md)
 -   [UEA - 6.8](klasa2/uea-6.8.md)
+-   [Revision - 6.10](klasa2/revision-6.10.md)
+
