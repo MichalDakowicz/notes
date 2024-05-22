@@ -10,7 +10,7 @@
 
 ### Kartkówki
 
--   [Hiszpański Kartkówka Dolor](kartkowki/hiszpanski-kartkowka-dolor.md)
+-   [Hiszpański Kartkówka - Dolor](kartkowki/hiszpanski-kartkowka-dolor.md)
 
 ### Klasa 1
 
@@ -23,3 +23,4 @@ znaki - ¡ ¿
 -   [A Cristobal le duele el estomago y tiene la diarrea.](klasa2/a-cristobal-le-duele-el-estomago-y-tiene-la-diarrea.md)
 -   [Si te duele la cabeza, toma el ibuprofeno.](klasa2/si-te-duele-la-cabeza-toma-el-ibuprofeno.md)
 -   [Si que el precio de la escuela no es adecuado de la calidad. - Jeśli cena szkoły nie jest adekwatna do jakości.](klasa2/si-que-el-precio-de-la-escuela-no-es-adecuado-de-la-calidad.md)
+-   [La paella lleva arroz - Paella zawiera ryż](klasa2/la-paella-lleva-arroz.md)

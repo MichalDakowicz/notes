@@ -139,3 +139,35 @@
 3. Jeśli nie weźmiesz taksówki, spóźnisz się na koncert. - Unless you take a taxi, you will be late for the concert.
 
 4. Ona nie poszła by na zakupy, gdyby nie miała pieniędzy. - She wouldn't go shopping unless she had money.
+
+### WISH/IF ONLY
+
+1. I'm not verry good at maths. I wish I were better at it.
+
+2. My car broke down again. I wish it didn't break down so often.
+
+3. I don't have any coffee left. I wish I had some.
+
+4. It's raining and I forgot my umbrella. I wish I hadn't forgotten it.
+
+5. She cannot come to the gatthering tonight. I wish she could come.
+
+#### POLISH-ENGLISH
+
+1. Szkoda że nie mam więcej czasu na czytanie. - I wish I had more time for reading.
+
+2. Gdybym tylko wiedział o korku uliczny, wyszedłbym wcześniej. - If only I had known about the traffic jam, I would have left earlier.
+
+#### QUESTION/ANSWER
+
+1. What do you wish you could do, that you can't do now? - I wish I could speak Russian.
+
+2. Is there something you regret doing last weekend? - I regret nothing.
+
+3. What whould you change about your daily routine? - I would like to wake up earlier.
+
+4. Is there a skill you wish you had? - I wish I could learn very quickly.
+
+5. What do you often say? - I often say "".
+
+6. What would you say to a person you admire? - I would say "Hello".
