@@ -69,3 +69,4 @@
 -   [Analiza wiersza “Testament mój” Juliusza Słowackiego](klasa2/analiza-wiersza-testament-moj-juliusza-slowackiego.md)
 -   [Wprowadzenie do analizy “Kordiana” Juliusza Słowackiego](klasa2/wprowadzenie-do-analizy-kordiana-juliusza-slowackiego.md)
 -   [Trzy podróże na drodze do świadomości. Kordian jako homo viator](klasa2/trzy-podroze-na-drodze-do-swiadomosci.md)
+-   [Czy Kordian to typowy bohater dynamiczny](klasa2/czy-kordian-to-typowy-bohater-dynamiczny.md)

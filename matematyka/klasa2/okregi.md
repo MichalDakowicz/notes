@@ -86,4 +86,26 @@ $`d = 16`$`
 
 6ad/226
 
+![](226/6a.png)
+
+0 Pukntów wspólnych
+
+$`|O_1O_2| = 1`$
+
+![alt text](226/6d.png)
+
+0 Punktów wspólnych
+
+$`|O_1O_2| = 5`$
+
 7/226
+
+$`|O_1O_3| = 18`$
+
+$`|O_2O_3| = 12`$
+
+$`r_{O_1 \space \vee \space O_2} = 6`$
+
+$`d_{O_1 \space \vee \space O_2} = 12`$
+
+$`d_{O_3} = 24`$
