@@ -49,3 +49,4 @@
 -   [Rozdział mieszanin](klasa2/rozdzial-mieszanin.md)
 -   [Rozpuszczalność substancji](klasa2/rozpuszczalnosc-substancji.md)
 -   [Rozpuszczalność - Zadania](klasa2/rozpuszczalnosc-zadania.md)
+-   [Stężenie procentowe](klasa2/stezenie-procentowe.md)
