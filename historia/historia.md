@@ -40,9 +40,8 @@
 -   [Powstanie Kozackie](klasa2/powstanie-kozackie.md)
 -   [Wojny z Turcją](klasa2/wojny-z-turcja.md)
 -   [Przemiany gospodarcze i społeczne w XVIII wieku](klasa2/przemiany-gospodarcze-i-spoleczne-w-xviii-wieku.md)
-
 -   [Gra strategiczna](klasa2/gra-strategiczna.md)
-
 -   [Początki panowania Stanisława Augusta Poniatowskiego](klasa2/poczatki-panowania-stanislawa-augusta-poniatowskiego.md)
 -   [Pierwszy rozbiór Polski](klasa2/pierwszy-rozbiór-polski.md)
 -   [Reformy Stanisłąwa Augusta Poniatowskiego](klasa2/reformy-stanislawa-augusta-poniatowskiego.md)
+-   [Konstytucja 3 maja](klasa2/konstytucja-3-maja.md)

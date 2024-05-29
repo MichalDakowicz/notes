@@ -10,6 +10,7 @@
 ### Klasa 1
 
 ### Klasa 2
+
 -   [Funkcje trygonometryczne kąta wypukłego](klasa2/funkcje-trygonometryczne-kata-wypuklego.excalidraw.png)
 -   [Pole trójkąta](klasa2/pole-trojkata.excalidraw.png)
 -   [Pole trójkąta - wzór Herona](klasa2/pole-trojkata-wzor-herona.md)
@@ -17,3 +18,4 @@
 -   [Powtórzenie wiadości z trygonometrii](klasa2/powtorzenie-wiadosci-z-trygonometrii.md)
 -   [Okręgi](klasa2/okregi.md)
 -   [Koło](klasa2/kolo.md)
+-   [Praca na lekcji - miary kątów](klasa2/praca-na-lekcji-miary-katow.md)
