@@ -19,3 +19,4 @@
 -   [Okręgi](klasa2/okregi.md)
 -   [Koło](klasa2/kolo.md)
 -   [Praca na lekcji - miary kątów](klasa2/praca-na-lekcji-miary-katow.md)
+-   [Okrąg opisany na trójkącie](klasa2/okrag-opisany-na-trojkacie.md)

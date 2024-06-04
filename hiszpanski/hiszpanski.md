@@ -24,3 +24,4 @@ znaki - ¡ ¿
 -   [Si te duele la cabeza, toma el ibuprofeno.](klasa2/si-te-duele-la-cabeza-toma-el-ibuprofeno.md)
 -   [Si que el precio de la escuela no es adecuado de la calidad. - Jeśli cena szkoły nie jest adekwatna do jakości.](klasa2/si-que-el-precio-de-la-escuela-no-es-adecuado-de-la-calidad.md)
 -   [La paella lleva arroz - Paella zawiera ryż](klasa2/la-paella-lleva-arroz.md)
+-   [La receta - przepis](klasa2/la-receta.md)
