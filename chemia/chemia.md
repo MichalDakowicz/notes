@@ -51,3 +51,4 @@
 -   [Rozpuszczalność - Zadania](klasa2/rozpuszczalnosc-zadania.md)
 -   [Stężenie procentowe](klasa2/stezenie-procentowe.md)
 -   [Stężenie molowe](klasa2/stezenie-molowe.md)
+-   [Mieszanie roztworów](klasa2/mieszanie-roztworow.md)
