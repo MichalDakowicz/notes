@@ -20,3 +20,8 @@
 -   [Koło](klasa2/kolo.md)
 -   [Praca na lekcji - miary kątów](klasa2/praca-na-lekcji-miary-katow.md)
 -   [Okrąg opisany na trójkącie](klasa2/okrag-opisany-na-trojkacie.md)
+
+### Klasa 3
+
+-   [Lekcja organizacyjna - zapoznanie z PZO](klasa3/lekcja-organizacyjna-zapoznanie-z-pzo.md)
+-   [Powtórzenie wiadomości dotyczących potęg](klasa3/powtorzenie-wiadosci-dotyczacych-poteg.md)
