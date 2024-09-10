@@ -12,3 +12,6 @@
 ### Klasa 2
 
 -   [Kartkówka](klasa2/kartkowka.md)
+
+### Klasa 3
+

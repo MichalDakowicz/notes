@@ -25,3 +25,5 @@
 
 -   [Lekcja organizacyjna - zapoznanie z PZO](klasa3/lekcja-organizacyjna-zapoznanie-z-pzo.md)
 -   [Powtórzenie wiadomości dotyczących potęg](klasa3/powtorzenie-wiadosci-dotyczacych-poteg.md)
+-   [Potęga o wykładniku rzeczywistym](klasa3/potega-o-wykladniku-rzeczywistym.md)
+-   [Funkcja wykładnicza](klasa3/funkcja-wykladnicza.md)

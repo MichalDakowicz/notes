@@ -56,3 +56,4 @@
 ### Klasa 3
 
 -   [Lekcja organizacyjna](klasa3/lekcja-organizacyjna.md)
+-   [Węglowodory](klasa3/weglowodory.md)
