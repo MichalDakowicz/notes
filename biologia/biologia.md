@@ -11,4 +11,6 @@
 
 -   [Układ Nerwowy](klasa1/uklad-nerwowy.md)
 
-### Klasa 2
+### Klasa 3
+
+-   [5. GMO](klasa3/gmo.md)

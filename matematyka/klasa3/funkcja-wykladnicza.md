@@ -4,6 +4,12 @@
 
 $`f(x)=a^x`$ dla $`x \in \R`$
 
+<hr>
+
+dla $`0<a<1 \space f(x)\downarrow`$, a dla $`a>1 \space f(x)\uparrow`$
+
+<img src="malejaca.png" width=45%> <img src="rosnaca.png" width=45%>
+
 ### Ćwiczenie 2/288
 
 $`f(x)=2^x, g(x)=(\frac{3}{2})^x, h(x)=(\frac{4}{3})^x`$
@@ -52,12 +58,6 @@ $`\sqrt{\frac{3}{4}}=\frac{\sqrt3}{\sqrt4}=\frac{\sqrt3}{2}`$
 
 $`c \in h(x)`$
 
-<hr>
-
-dla $`0<a<1 \space f(x)\downarrow`$, a dla $`a>1 \space f(x)\uparrow`$
-
-<img src="malejaca.png" width=45%> <img src="rosnaca.png" width=45%>
-
 ### Zadanie 2/290
 
 $`f(x)=a^x`$
@@ -96,9 +96,9 @@ d) $`9^{-2}<9^{-\sqrt\pi}<9^{\sqrt3}<9^0`$
 
 ### Zadanie 7/291
 
-b)
+#### b)
 
-Funkcja $`y=(\frac{1}{3})^x`$ jest malejąca oraz:
+$`f(x)=(\frac{1}{3})^x`$ funkcja malejąca
 
 $`(\frac{1}{3})^{3 \sqrt{2}}`$
 

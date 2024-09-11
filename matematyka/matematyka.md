@@ -27,3 +27,4 @@
 -   [Powtórzenie wiadomości dotyczących potęg](klasa3/powtorzenie-wiadosci-dotyczacych-poteg.md)
 -   [Potęga o wykładniku rzeczywistym](klasa3/potega-o-wykladniku-rzeczywistym.md)
 -   [Funkcja wykładnicza](klasa3/funkcja-wykladnicza.md)
+-   [Przekształcanie wykresów funkcji wykładniczej](klasa3/przeksztalcanie-wykresow-funkcji-wykladniczej.md)
