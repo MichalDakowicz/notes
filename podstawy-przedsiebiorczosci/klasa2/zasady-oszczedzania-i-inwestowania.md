@@ -1,4 +1,4 @@
-[Wstecz](../podstawy_przedsiebiorczosci.md)
+[Wstecz](../podstawy-przedsiebiorczosci.md)
 
 # Zasady oszczędzania i inwestowania
 

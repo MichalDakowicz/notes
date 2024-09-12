@@ -9,10 +9,12 @@ znaki - ¡ ¿
 -   [Kartkówki](#kartkowki)
 -   [Klasa 1](#klasa-1)
 -   [Klasa 2](#klasa-2)
+-   [Klasa 3](#klasa-3)
 
 ### Kartkówki
 
 -   [Hiszpański Kartkówka - Dolor](kartkowki/hiszpanski-kartkowka-dolor.md)
+-   [Hiszpański Kartkówka - La ropa](kartkowki/hiszpanski-kartkowka-la-ropa.md)
 
 ### Klasa 2
 
@@ -27,3 +29,4 @@ znaki - ¡ ¿
 ### Klasa 3
 
 -   [La ropa](klasa3/la-ropa.md)
+-   [Hoy llevo una camisa de cuadros](klasa3/hoy-llevo-una-camisa-de-cuadros.md)

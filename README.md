@@ -12,5 +12,6 @@
 8. [Fizyka](fizyka/fizyka.md)
 9. [Chemia](chemia/chemia.md)
 10. [Geografia](geografia/geografia.md)
-11. [Podstawy Przedsiębiorczości](podstawy_przedsiebiorczosci/podstawy_przedsiebiorczosci.md)
+11. [Podstawy Przedsiębiorczości](podstawy-przedsiebiorczosci/podstawy-przedsiebiorczosci.md)
 12. [Informatyka](informatyka/informatyka.md)
+13. [Projektowanie oprogramowania](projektowanie-oprogramowania/projektowanie-oprogramowania.md)

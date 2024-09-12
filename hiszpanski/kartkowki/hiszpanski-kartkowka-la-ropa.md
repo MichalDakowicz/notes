@@ -1,6 +1,6 @@
 [Wstecz](../hiszpanski.md)
 
-# La ropa
+# Hiszpański Kartkówka - La ropa
 
 | Para mujer                    | Para hombre                                           | Para invierno                  | Para verano                                 |
 | ----------------------------- | ----------------------------------------------------- | ------------------------------ | ------------------------------------------- |
@@ -13,3 +13,21 @@
 | las medias - rajstopy         | los cansoncillos - galoty                             | el jersey - sweter             | la camisa hawaiana - koszula hawajska       |
 |                               | los zapatos - buty                                    | la sudadera - bluza            | las gafas de sol - okulary przeciwsłoneczne |
 |                               |                                                       |                                | las jaoinesas - japonki                     |
+
+|            |             |
+| ---------- | ----------- |
+| de lunares | w kropki    |
+| de cuadros | w kratke    |
+| de rayas   | w paski     |
+| liso       | bez niczego |
+| estampado  | w wzorki    |
+| de flores  | w kwiatki   |
+| grande     | duże        |
+| estrecho   | wąskie      |
+| ancho      | szerokie    |
+| largo      | długie      |
+| corto      | krótkie     |
+| el algodón | bawełna     |
+| el cuero   | skóra       |
+| la lana    | wełna       |
+| la seda    | jedwab      |
