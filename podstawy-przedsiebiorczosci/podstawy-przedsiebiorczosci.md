@@ -1,6 +1,6 @@
 [Wstecz](../README.md)
 
-# Podstawy Przedsiębiorczości
+# Podstawy przedsiębiorczości
 
 ## Spis treści
 
