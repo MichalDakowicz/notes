@@ -7,6 +7,7 @@
 -   [Streszczenia](#streszczenia)
 -   [Klasa 1](#klasa-1)
 -   [Klasa 2](#klasa-2)
+-   [Klasa 3](#klasa-3)
 
 ### Streszczenia
 
@@ -70,3 +71,7 @@
 -   [Wprowadzenie do analizy “Kordiana” Juliusza Słowackiego](klasa2/wprowadzenie-do-analizy-kordiana-juliusza-slowackiego.md)
 -   [Trzy podróże na drodze do świadomości. Kordian jako homo viator](klasa2/trzy-podroze-na-drodze-do-swiadomosci.md)
 -   [Czy Kordian to typowy bohater dynamiczny](klasa2/czy-kordian-to-typowy-bohater-dynamiczny.md)
+
+### Klasa 3
+
+-   [Bohater romantyczny - powtórzenie](klasa3/bohater-romantyczny-powtorzenie.md)
