@@ -28,3 +28,4 @@
 -   [Potęga o wykładniku rzeczywistym](klasa3/potega-o-wykladniku-rzeczywistym.md)
 -   [Funkcja wykładnicza](klasa3/funkcja-wykladnicza.md)
 -   [Przekształcanie wykresów funkcji wykładniczej](klasa3/przeksztalcanie-wykresow-funkcji-wykladniczej.md)
+-   [Własności funkcji wykładniczej](klasa3/wlasnosci-funkcji-wykladniczej.md)

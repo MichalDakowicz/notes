@@ -57,3 +57,4 @@
 
 -   [Lekcja organizacyjna](klasa3/lekcja-organizacyjna.md)
 -   [Węglowodory](klasa3/weglowodory.md)
+-   [Metan - budowa czasteczki, otrzymywanie i właściwości](klasa3/metan-budowa-czasteczki-otrzymywanie-i-wlasciwosci.md)
