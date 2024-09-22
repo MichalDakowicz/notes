@@ -175,3 +175,41 @@ $`x_1=\frac{-4-2}{2}=-3`$
 $`x_2=\frac{-4+2}{2}=-1`$
 
 $`x \in (-3,-1)`$
+
+### ZADANIE NA 6
+
+$`\frac{3^{\sqrt2-1}\cdot3^{\sqrt2+1}}{3^{\sqrt8}}\leq(\frac16)^{x^2-x}\leq6^{\pi}\cdot3^{1-\pi}\cdot(\frac12)^{\pi-1}`$
+
+$`\frac{3^{\sqrt2-1}\cdot3^{\sqrt2+1}}{3^{\sqrt8}}\leq(\frac16)^{x^2-x}`$
+
+$`\frac{3^{2\sqrt2}}{3^{\sqrt8}}\leq(\frac16)^{x^2-x}`$
+
+$`1\leq(\frac16)^{x^2-x}`$
+
+$`(\frac16)^0\leq(\frac16)^{x^2-x}`$
+
+$`0\geq x^2-x`$
+
+$`0\geq x(x-1)`$
+
+$`x\geq 1`$
+
+$`x\leq 0`$
+
+$`x \in [0,1]`$
+
+$`(\frac16)^{x^2-x}\leq6^{\pi}\cdot3^{1-\pi}\cdot(\frac12)^{\pi-1}`$
+
+$`6^{-x^2+x}\leq3^{\pi}\cdot2^{\pi}\cdot3^{1-\pi}\cdot\frac{1}{2^{\pi-1}}`$
+
+$`6^{-x^2+x}\leq3^{\pi}\cdot2\cdot3^{1-\pi}`$
+
+$`6^{-x^2+x}\leq6^1`$
+
+$`-x^2+x\leq1`$
+
+$`-x^2+x-1\leq0`$
+
+$`x\in\R`$
+
+**ROZWIĄZANIE** -> $`x\in[0,1]`$

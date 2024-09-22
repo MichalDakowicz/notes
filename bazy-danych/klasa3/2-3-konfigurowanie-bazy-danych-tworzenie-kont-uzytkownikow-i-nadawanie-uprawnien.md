@@ -104,7 +104,7 @@ GRANT INSERT ON Michal_Dakowicz.Uczniowie TO 'Michal_Dakowicz'@'localhost';
 SHOW GRANTS FOR 'Michal_Dakowicz'@'localhost';
 ```
 
-17. Użytkownikowi o nazwie zgodnej z własnym imieniem i nazwiskiem nadaj uprawnienie do usuwania i modyfikowania danych z tabeli telefonyuczniow w bazie danych Imie_Nazwisko
+17. Użytkownikowi o nazwie zgodnej z własnym imieniem i nazwiskiem nadaj uprawnienie do usuwania i modyfikowania danych z tabeli telefony uczniów w bazie danych Imie_Nazwisko
 
 ```sql
 GRANT DELETE, UPDATE ON Michal_Dakowicz.TelefonyUczniow TO 'Michal_Dakowicz'@'localhost';
@@ -131,9 +131,9 @@ SHOW GRANTS FOR 'Michal_Dakowicz'@'localhost';
 21. Sprawdź uprawnienia nowego użytkownika
 
 ```sql
-CREATE USER 'NowyUrzytkownik'@'localhost' IDENTIFIED BY 'NowyUrzytkownik';
+CREATE USER 'NowyUzytkownik'@'localhost' IDENTIFIED BY 'NowyUzytkownik';
 
-SHOW GRANTS FOR 'NowyUrzytkownik'@'localhost';
+SHOW GRANTS FOR 'NowyUzytkownik'@'localhost';
 ```
 
 22. Zabierz uprawnienie do usuwania danych

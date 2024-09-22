@@ -55,7 +55,7 @@
 -   [“Dyktando”](klasa2/dyktando.md)
 -   [Adam Mickiewicz - Oda do młodości](klasa2/adam-mickiewicz-oda-do-mlodosci.md)
 -   [Miernik fantazji](klasa2/miernik-fantazji.md)
--   [Czy technologia pomaga ludziom stać się mądrzejszymi czy czyni ich głupsimi?](klasa2/czy-technologia-pomaga-ludziom-stac-sie-madrzejszymi-czy-czyni-ich-glupsimi.md)
+-   [Czy technologia pomaga ludziom stać się mądrzejszymi czy czyni ich głupszymi?](klasa2/czy-technologia-pomaga-ludziom-stac-sie-madrzejszymi-czy-czyni-ich-glupsimi.md)
 -   [Czucie i wiara, czy mędrca, szkiełko i oko? - Adam Mickiewicz “Romantyczność”](klasa2/czucie-i-wiara-czy-medrca-skielko-i-oko-adam-mickiewicz-romantycznosc.md)
 -   [Sonaty](klasa2/sonaty.md)
 -   [Droga nad przepaścią](klasa2/droga-nad-przepascia.md)
@@ -75,3 +75,4 @@
 ### Klasa 3
 
 -   [Bohater romantyczny - powtórzenie](klasa3/bohater-romantyczny-powtorzenie.md)
+-   [Pozytywizm - wstęp do epoki](klasa3/pozytywizm-wstep-do-epoki.md)

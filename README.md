@@ -16,3 +16,4 @@
 12. [Informatyka](informatyka/informatyka.md)
 13. [Projektowanie oprogramowania](projektowanie-oprogramowania/projektowanie-oprogramowania.md)
 14. [Bazy danych](bazy-danych/bazy-danych.md)
+15. [SKAI](skai/skai.md)

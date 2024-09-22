@@ -20,7 +20,7 @@
 -   rodzaj pracy
 -   wynagrodzenie
 -   wymiar czasu pracy
--   termin jej rozpoczecia
+-   termin jej rozpoczęcia
 -   miejsce jej wykonywania
 
 Umowa o pracę to fundamentalny dokument regulujący stosunki pracownicze w Polsce, oparty o zapisy Kodeksu Pracy. W umowie tej spotykają się dwie strony: **pracownik** i **pracodawca**, a każda z nich ma określone prawa i obowiązki.

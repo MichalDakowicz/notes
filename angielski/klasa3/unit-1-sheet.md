@@ -41,3 +41,51 @@
 5. make
 
 6. principle
+
+## Extra practice
+
+### Ex 1
+
+1. a valuable lesson
+
+2. a guiding principle
+
+3. a good rule of thumb
+
+4. it's easier said than done
+
+5. make a point
+
+6. stand you in good stead
+
+### Ex 2
+
+1. at the moment
+
+2. for
+
+3. Nowadays
+
+4. over the last two decades
+
+5. In recent times
+
+6. always
+
+### Ex 4
+
+1. soul
+
+2. order
+
+3. age
+
+4. when
+
+5. ends
+
+6. quiet
+
+7. pieces
+
+8. foremost
