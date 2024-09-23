@@ -30,7 +30,7 @@
 
 ### Ex 1
 
-1. valeuable
+1. valuable
 
 2. stad
 
@@ -41,6 +41,12 @@
 5. make
 
 6. principle
+
+### Ex 2
+
+1. I am studying for my fina exams at the moment.
+
+2. We have been living in Mexico City since 2011. We love it!
 
 ## Extra practice
 

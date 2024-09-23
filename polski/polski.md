@@ -76,3 +76,4 @@
 
 -   [Bohater romantyczny - powtórzenie](klasa3/bohater-romantyczny-powtorzenie.md)
 -   [Pozytywizm - wstęp do epoki](klasa3/pozytywizm-wstep-do-epoki.md)
+-   [Sztuka pozytywistyczna](klasa3/sztuka-pozytywistyczna.md)
