@@ -1,6 +1,6 @@
 [Wstecz](../chemia.md)
 
-# Metan - budowa czasteczki, otrzymywanie i właściwości
+# Metan - budowa cząsteczki, otrzymywanie i właściwości
 
 ### $`CH_4`$
 

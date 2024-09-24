@@ -26,7 +26,7 @@
 -   [Kwasy](klasa2/kwasy.md)
 -   [Sole](klasa2/sole.md)
 -   [Praca domowa](klasa2/praca-domowa.md)
--   [Rownania](klasa2/rownania.md)
+-   [Równania](klasa2/rownania.md)
 -   [Powtórzenie wiadomości - Tlenki](klasa2/powtorzenie-wiadomosci-tlenki.md)
 -   [Mol](klasa2/mol.md)
 -   [Masa molowa, masa cząsteczkowa](klasa2/masa-molowa-masa-czasteczkowa.md)
@@ -57,4 +57,5 @@
 
 -   [Lekcja organizacyjna](klasa3/lekcja-organizacyjna.md)
 -   [Węglowodory](klasa3/weglowodory.md)
--   [Metan - budowa czasteczki, otrzymywanie i właściwości](klasa3/metan-budowa-czasteczki-otrzymywanie-i-wlasciwosci.md)
+-   [Metan - budowa cząsteczki, otrzymywanie i właściwości](klasa3/metan-budowa-czasteczki-otrzymywanie-i-wlasciwosci.md)
+-   [Szereg homologiczny alkanów](klasa3/szereg-homologiczny-alkanow.md)

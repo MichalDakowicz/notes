@@ -1,6 +1,6 @@
 [Wstecz](../README.md)
 
-# Mateamtka
+# Matematyka
 
 ## Spis treści
 
@@ -29,3 +29,5 @@
 -   [Funkcja wykładnicza](klasa3/funkcja-wykladnicza.md)
 -   [Przekształcanie wykresów funkcji wykładniczej](klasa3/przeksztalcanie-wykresow-funkcji-wykladniczej.md)
 -   [Własności funkcji wykładniczej](klasa3/wlasnosci-funkcji-wykladniczej.md)
+-   [Logarytmy - przypomnienie wiadomości](klasa3/logarytmy-przypomnienie-wiadomosci.md)
+-   [Własności logarytmów](klasa3/wlasnosci-logarytmow.md)

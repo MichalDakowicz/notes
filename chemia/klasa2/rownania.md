@@ -1,6 +1,6 @@
 [Wstecz](../chemia.md)
 
-# Rownania
+# Równania
 
 Ba + FeCl2 → Fe + BaCl2
 
