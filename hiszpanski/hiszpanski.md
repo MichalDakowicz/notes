@@ -32,3 +32,4 @@ znaki - ¡ ¿
 -   [Hoy llevo una camisa de cuadros](klasa3/hoy-llevo-una-camisa-de-cuadros.md)
 -   [Hoy me pongo la camisa de seda](klasa3/hoy-me-pongo-la-camisa-de-sada.md)
 -   [En la tienda de ropa](klasa3/en-la-tienda-de-ropa.md)
+-   [Me lo llevo](klasa3/me-lo-llevo.md)

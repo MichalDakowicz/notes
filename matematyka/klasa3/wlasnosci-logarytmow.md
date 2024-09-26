@@ -66,4 +66,30 @@ $`\log_a\frac{x}{y} = \log_ax - \log_ay`$
 
 **c.** $`\log_3\sqrt[4]{3x^6}=\log_33^{\frac{1}{4}}x^{\frac{3}{2}}=\frac{1}{4}\log_33+\frac{3}{2}\log_3x=\frac{1}{4}+\frac{3}{2}\cdot(-\frac{1}{4})=-\frac{1}{8}`$
 
-### Zad 6/304
+## PRACA WŁASNA
+
+![](praca-wlasna-logarytmy-1.png)
+
+**c.** $`\log_3\frac{1}{243}=-5`$
+
+**f.** $`\log_{27}\sqrt3=\frac{1}{6}`$
+
+**i.** $`\log_{\sqrt{27}}3=\frac{2}{3}`$
+
+**l.** $`3^{1-\log_32}=3^{1-}=\frac{3}{2}`$
+
+![](praca-wlasna-logarytmy-2.png)
+
+$`\log_2\sqrt6+\log_2\sqrt8-\log_2\sqrt3=\log_2\sqrt{6\cdot8}-\log_2\sqrt3=\log_2\frac{\sqrt{48}}{\sqrt3}=\log_24=2`$
+
+$`2 \in Q`$
+
+![](praca-wlasna-logarytmy-3.png)
+
+**a.** $`\log80=\log4\cdot4\cdot5=\log4+\log4+\log5\approx0,6+0,6+0,7\approx1,9`$
+
+**b.** $`\log50=\log10\cdot5=\log10+\log5\approx1+0,7\approx1,7``$
+
+**g.** $`\log5\sqrt2=\log\sqrt{25\cdot2}=\log\sqrt{50}=\log\sqrt{10\cdot5}=\log\sqrt{10}+\log\sqrt5\approx\frac{1}{2}+0,35=0,85`$
+
+**h.** $`\log25\sqrt[3]4 = \log5^2\cdot4^{\frac{1}{3}}=\log5^2+\log4^{\frac{1}{3}}=2\log5+\frac{1}{3}\log4\approx2\cdot0,7+\frac{1}{3}\cdot0,6=1,4+0,2=1,6`$
