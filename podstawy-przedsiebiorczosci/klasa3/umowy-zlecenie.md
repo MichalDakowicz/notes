@@ -2,7 +2,7 @@
 
 # Umowy zlecenie
 
-Zawarta w dniu 26 września 2024 r. w Białymstoku pomiędzy: Firma ABC Sp. z o.o. z siedzibą w Białymstoku, ul. Przykładowa 1, NIP: 1234567890, REGON: 987654321, reprezentowanym przez Jan Kowalski, zwanym dalej Zleceniodawcą, a: Michał Dakowicz, zamieszkałą w Białymstoku przy ulicy Przykładowa 5, legitymującą się dowodem osobistym seria i nr AAA 123456, zwaną dalej Zleceniobiorcą.
+Zawarta w dniu 26 września 2024 r. w Białymstoku pomiędzy: Firma ABC Sp. z o.o. z siedzibą w Białymstoku, ul. Przykładowa 1, NIP: 1234567890, REGON: 987654321, reprezentowanym przez Jan Kowalski, zwanym dalej Zleceniodawcą, a: Michał Dakowicz, zamieszkałym w Białymstoku przy ulicy Przykładowa 5, legitymującą się dowodem osobistym seria i nr AAA 123456, zwaną dalej Zleceniobiorcą.
 
 **<div style="justify-content: center; display: flex;">§ 1</div>**
 
