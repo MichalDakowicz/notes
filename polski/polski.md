@@ -77,3 +77,5 @@
 -   [Bohater romantyczny - powtórzenie](klasa3/bohater-romantyczny-powtorzenie.md)
 -   [Pozytywizm - wstęp do epoki](klasa3/pozytywizm-wstep-do-epoki.md)
 -   [Sztuka pozytywistyczna](klasa3/sztuka-pozytywistyczna.md)
+-   [Pozytywiści wobec romantyzmu](klasa3/pozytywisci-wobec-romantyzmu.md)
+-   [Karta pracy - Adam Asnyk Do młodych](klasa3/karta-pracy-adam-asny[k-do-mlodych.md)

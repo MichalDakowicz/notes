@@ -23,3 +23,4 @@
 ### Klasa 3
 
 -   [Unit 1 sheet](klasa3/unit-1-sheet.md)
+-   [Email - kurs na przewodnika turystycznego](klasa3/email-kurs-na-przewodnika-turystycznego.md)

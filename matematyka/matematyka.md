@@ -31,3 +31,5 @@
 -   [Własności funkcji wykładniczej](klasa3/wlasnosci-funkcji-wykladniczej.md)
 -   [Logarytmy - przypomnienie wiadomości](klasa3/logarytmy-przypomnienie-wiadomosci.md)
 -   [Własności logarytmów](klasa3/wlasnosci-logarytmow.md)
+-   [Przekształcanie podstawy logarytmu](klasa3/przeksztalcanie-podstawy-logarytmu.md)
+-   [Przekształcanie wykresów funkcji logarytmicznej](klasa3/przeksztalcanie-wykresow-funkcji-logarytmicznej.md)
