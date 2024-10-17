@@ -7,13 +7,13 @@
 **1. Podaj dane wszystkich klientów i wszystkie numery zamówień**
 
 ```sql
-SELECT klienci.*, zamowienia.id_zamowienia
+SELECT klienci.imie, klienci.nazwisko, zamowienia.id_zamowienia
 FROM klienci
 LEFT JOIN zamowienia ON klienci.id_klienta = zamowienia.id_klienta
 UNION
-SELECT klienci.*, zamowienia.id_zamowienia
-FROM klienci
-RIGHT JOIN zamowienia ON klienci.id_klienta = zamowienia.id_klienta;
+SELECT klienci.imie, klienci.nazwisko, zamowienia.id_zamowienia
+FROM zamowienia
+RIGHT JOIN klienci ON klienci.id_klienta = zamowienia.id_klienta;
 ```
 
 **2. Sprawdź różnicę w wynikach zapytań z INNER JOIN, LEFT JOIN, RIGHT JOIN i FULL JOIN na podstawie zadania 1**
@@ -37,31 +37,31 @@ WHERE klienci.id_klienta IS NULL;
 **4. Podaj nazwy wszystkich produktów i wszystkich kategorii**
 
 ```sql
-SELECT produkty.nazwa AS nazwa_produktu, kategorie.nazwa AS nazwa_kategorii
+SELECT produkty.nazwa, kategorie.nazwa
 FROM produkty
 LEFT JOIN kategorie ON produkty.id_kategoria = kategorie.id_kategoria
 UNION
-SELECT produkty.nazwa AS nazwa_produktu, kategorie.nazwa AS nazwa_kategorii
-FROM produkty
-RIGHT JOIN kategorie ON produkty.id_kategoria = kategorie.id_kategoria;
+SELECT produkty.nazwa, kategorie.nazwa
+FROM kategorie
+RIGHT JOIN produkty ON produkty.id_kategoria = kategorie.id_kategoria;
 ```
 
 **5. Wybierz wszystkich pracowników i wszystkie oddziały**
 
 ```sql
-SELECT pracownicy.*, oddzial.nazwa AS nazwa_oddzialu
+SELECT pracownicy.*, oddzial.nazwa
 FROM pracownicy
 LEFT JOIN oddzial ON pracownicy.id_odzial = oddzial.id_odzial
 UNION
-SELECT pracownicy.*, oddzial.nazwa AS nazwa_oddzialu
-FROM pracownicy
-RIGHT JOIN oddzial ON pracownicy.id_odzial = oddzial.id_odzial;
+SELECT pracownicy.*, oddzial.nazwa
+FROM oddzial
+RIGHT JOIN pracownicy ON pracownicy.id_odzial = oddzial.id_odzial;
 ```
 
 **6. Podaj dane klientów z tego samego miasta, uporządkuj wg miasta**
 
 ```sql
-SELECT k1.*
+SELECT k1.imie, k1.nazwisko
 FROM klienci k1
 INNER JOIN klienci k2 ON k1.miasto = k2.miasto AND k1.id_klienta <> k2.id_klienta
 ORDER BY k1.miasto;
@@ -70,7 +70,7 @@ ORDER BY k1.miasto;
 **7. Podaj dane pracowników z tego samego oddziału, uporządkuj wg oddziału**
 
 ```sql
-SELECT p1.*
+SELECT p1.imie, p1.nazwisko
 FROM pracownicy p1
 INNER JOIN pracownicy p2 ON p1.id_odzial = p2.id_odzial AND p1.id_pracownik <> p2.id_pracownik
 ORDER BY p1.id_odzial;
@@ -120,6 +120,6 @@ FROM pracownicy p
 LEFT JOIN zamowienia z ON p.id_pracownika = z.id_pracownika
 UNION
 SELECT p.*, z.id_zamowienia
-FROM pracownicy p
-RIGHT JOIN zamowienia z ON p.id_pracownika = z.id_pracownika;
+FROM zamowienia z
+RIGHT JOIN pracownicy p ON p.id_pracownika = z.id_pracownika;
 ```

@@ -37,12 +37,12 @@ WHERE zamowienia.id_zamowienia IS NULL;
 
 ```sql
 -- INNER JOIN (zwraca produkty mające przypisaną kategorię)
-SELECT produkty.nazwa AS nazwa_produktu, kategorie.nazwa AS nazwa_kategorii
+SELECT produkty.nazwa, kategorie.nazwa
 FROM produkty
 INNER JOIN kategorie ON produkty.id_kategoria = kategorie.id_kategoria;
 
 -- LEFT JOIN (zwraca wszystkie produkty, nawet bez przypisanej kategorii)
-SELECT produkty.nazwa AS nazwa_produktu, kategorie.nazwa AS nazwa_kategorii
+SELECT produkty.nazwa, kategorie.nazwa
 FROM produkty
 LEFT JOIN kategorie ON produkty.id_kategoria = kategorie.id_kategoria;
 ```
@@ -50,7 +50,7 @@ LEFT JOIN kategorie ON produkty.id_kategoria = kategorie.id_kategoria;
 **5. Wybierz wszystkie kategorie i produkty tych kategorii**
 
 ```sql
-SELECT kategorie.nazwa AS nazwa_kategorii, produkty.nazwa AS nazwa_produktu
+SELECT kategorie.nazwa, produkty.nazwa
 FROM kategorie
 LEFT JOIN produkty ON kategorie.id_kategoria = produkty.id_kategoria;
 ```
@@ -89,7 +89,7 @@ RIGHT JOIN zamowienia ON pracownicy.id_pracownika = zamowienia.id_pracownika;
 **9. Podaj wszystkie numery zamówień z informacjami o nazwie klienta i spedytora**
 
 ```sql
-SELECT zamowienia.id_zamowienia, klienci.nazwa_firmy AS nazwa_klienta, spedytorzy.nazwa AS nazwa_spedytora
+SELECT zamowienia.id_zamowienia, klienci.nazwa_firmy, spedytorzy.nazwa
 FROM zamowienia
 LEFT JOIN klienci ON zamowienia.id_klienta = klienci.id_klienta
 LEFT JOIN spedytorzy ON zamowienia.id_spedytora = spedytorzy.id_spedytora;
@@ -98,9 +98,9 @@ LEFT JOIN spedytorzy ON zamowienia.id_spedytora = spedytorzy.id_spedytora;
 **10. Podaj nazwiska klientów, numery zamówień, nazwiska pracowników obsługujących zamówienia i daty zamówień**
 
 ```sql
-SELECT klienci.nazwisko AS nazwisko_klienta,
+SELECT klienci.nazwisko,
        zamowienia.id_zamowienia,
-       pracownicy.nazwisko AS nazwisko_pracownika,
+       pracownicy.nazwisko,
        zamowienia.data_zamowienia
 FROM zamowienia
 LEFT JOIN klienci ON zamowienia.id_klienta = klienci.id_klienta

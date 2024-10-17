@@ -34,3 +34,4 @@ znaki - ¡ ¿
 -   [En la tienda de ropa](klasa3/en-la-tienda-de-ropa.md)
 -   [Me lo llevo](klasa3/me-lo-llevo.md)
 -   [Demostrativos](klasa3/demostrativos.md)
+-   [¿Cuánto cuestan?](klasa3/cuanto-cuestan.md)

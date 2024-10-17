@@ -33,3 +33,5 @@
 -   [Własności logarytmów](klasa3/wlasnosci-logarytmow.md)
 -   [Przekształcanie podstawy logarytmu](klasa3/przeksztalcanie-podstawy-logarytmu.md)
 -   [Przekształcanie wykresów funkcji logarytmicznej](klasa3/przeksztalcanie-wykresow-funkcji-logarytmicznej.md)
+-   [Funkcja wykładnicza i funkcja logarytmiczna – klasówka](klasa3/funkcja-wykladnicza-i-funkcja-logarytmiczna-klasowka.md)
+-   [Zmiana podstawy logarytmu – kartkówka](klasa3/zmiana-podstawy-logarytmu-kartkowka.md)
