@@ -60,3 +60,4 @@
 -   [Metan - budowa cząsteczki, otrzymywanie i właściwości](klasa3/metan-budowa-czasteczki-otrzymywanie-i-wlasciwosci.md)
 -   [Szereg homologiczny alkanów](klasa3/szereg-homologiczny-alkanow.md)
 -   [Podstawowe zasady nazewnictwa alkanów](klasa3/podstawowe-zasady-nazewnictwa-alkanow.md)
+-   

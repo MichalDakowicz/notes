@@ -35,3 +35,4 @@ znaki - ¡ ¿
 -   [Me lo llevo](klasa3/me-lo-llevo.md)
 -   [Demostrativos](klasa3/demostrativos.md)
 -   [¿Cuánto cuestan?](klasa3/cuanto-cuestan.md)
+-   [Voy a ir a casa](klasa3/voy-a-ir-a-casa.md)

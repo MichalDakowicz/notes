@@ -14,5 +14,3 @@
 -   [Kartkówka](klasa2/kartkowka.md)
 
 ### Klasa 3
-
-prezentacja chiny gospodarka 8.10 z imie nazwisko w tytule

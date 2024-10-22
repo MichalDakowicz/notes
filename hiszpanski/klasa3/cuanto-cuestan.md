@@ -51,32 +51,16 @@ tonto como -> =
 
 **c.** Szalik: 25 EUR.
 
-(50-25=25)
-
 **d.** Rękawiczki: 7 EUR.
-
-(8-1=7)
 
 **e.** Muszka: 15 EUR.
 
-(10+5=15)
-
 **f.** Czapka: 16 EUR.
-
-(8+8=16)
 
 **g.** Apaszka: 10 EUR.
 
-(25-15=10)
-
 **h.** Pasek: 50 EUR.
-
-(100:2=50)
 
 **i.** Parasol: 8 EUR.
 
-(25-17=8)
-
 **j.** Krawat: 20 EUR.
-
-(100:5=20)

@@ -35,3 +35,6 @@
 -   [Przekształcanie wykresów funkcji logarytmicznej](klasa3/przeksztalcanie-wykresow-funkcji-logarytmicznej.md)
 -   [Funkcja wykładnicza i funkcja logarytmiczna – klasówka](klasa3/funkcja-wykladnicza-i-funkcja-logarytmiczna-klasowka.md)
 -   [Zmiana podstawy logarytmu – kartkówka](klasa3/zmiana-podstawy-logarytmu-kartkowka.md)
+-   [Omówienie i poprawa sprawdzianu - Funkcja wykładnicza i logarytmiczna](klasa3/omowienie-i-poprawa-sprawdzianu-funkcja-wykladnicza-i-logarytmiczna.md)
+-   [Funkcje trygonometryczne kąta ostrego w trójkącie prostokątnym](klasa3/funkcje-trygonometryczne-kata-ostrego-w-trojkacie-prostokatnym.md)
+-   [Funkcje trygonometryczne dowolnego kąta](klasa3/funkcje-trygonometryczne-dowolnego-kata.md)

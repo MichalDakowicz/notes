@@ -12,6 +12,7 @@
 ### Streszczenia
 
 -   ["Kordian" Juliusza Słowackiego](streszczenia/kordain.md)
+-   ["Lalka" Bolesława Prusa](streszczenie/lalka.md)
 
 ### Klasa 1
 
