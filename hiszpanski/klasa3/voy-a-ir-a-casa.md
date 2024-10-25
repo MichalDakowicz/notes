@@ -57,6 +57,3 @@ Kuba y Julia van a estudiar. - Kuba i Julia będą się uczyć.
 9. Lucas va a ponerse más elegante que de costumbre. (Lucas ubierze się bardziej elegancko niż zazwyczaj.)
 
 10. Lucas va a reservar mesa en un restaurante. (Lucas zarezerwuje stolik w restauracji.)
-
-<hr>
-

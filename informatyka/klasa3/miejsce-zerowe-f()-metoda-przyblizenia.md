@@ -23,7 +23,7 @@ m. zerowe
 5. Jeśli $`f(a) \cdot f(c) < 0`$ to $`b = c`$ w przeciwnym wypadku $`a = c`$
 6. Powtarzamy od punktu 3
 
-### [Kod](<miejsce-zerowe-f()-metoda-przyblizenia.py>)
+### [Kod](miejsce-zerowe-f()-metoda-przyblizenia.py)
 
 ```python
 def f(x):

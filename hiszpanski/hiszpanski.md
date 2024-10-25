@@ -36,3 +36,5 @@ znaki - ¡ ¿
 -   [Demostrativos](klasa3/demostrativos.md)
 -   [¿Cuánto cuestan?](klasa3/cuanto-cuestan.md)
 -   [Voy a ir a casa](klasa3/voy-a-ir-a-casa.md)
+-   [Vamos a planear](klasa3/vamos-a-planear.md)
+-   [Propósitos de año nuevo](klasa3/propositos-de-ano-nuevo.md)

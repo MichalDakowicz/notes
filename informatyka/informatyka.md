@@ -10,3 +10,4 @@
 
 -   [Miejsce zerowe f() metodą przybliżenia](<klasa3/miejsce-zerowe-f()-metoda-przyblizenia.md>)
 -   [Metody numeryczne](klasa3/metody-numeryczne.md)
+-   [Obliczanie pola powierzchni pod funkcją (całki)](klasa3/obliczanie-pola-powieszchni-po-funkcja-calki.md)

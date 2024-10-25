@@ -1,4 +1,4 @@
-a[Wstecz](../README.md)
+[Wstecz](../README.md)
 
 # SKAI
 
@@ -9,3 +9,4 @@ a[Wstecz](../README.md)
 ### Klasa 3
 
 -   [Monomit](klasa3/monomit.md)
+-   []

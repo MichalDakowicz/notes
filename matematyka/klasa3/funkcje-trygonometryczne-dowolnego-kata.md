@@ -39,3 +39,5 @@ $`\cos\alpha=\frac{\sqrt{5}}{3}`$
 $`\tg\alpha=\frac{2}{\sqrt{5}}\cdot\frac{\sqrt{5}}{\sqrt{5}}=\frac{2\sqrt{5}}{5}`$
 
 $`\ctg\alpha=\frac{\sqrt{5}}{2}`$
+
+### Zadanie 3b/13
