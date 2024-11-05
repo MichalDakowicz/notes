@@ -39,17 +39,17 @@ $`
 `$
 
 $`
-\tg\alpha = \frac{\sin\alpha}{\cos\alpha} = \frac{\frac{\sqrt{35}}{6}}{\frac{1}{6}} = \sqrt{35}
+\mathrm{tg}\alpha = \frac{\sin\alpha}{\cos\alpha} = \frac{\frac{\sqrt{35}}{6}}{\frac{1}{6}} = \sqrt{35}
 `$
 
 $`
-\ctg\alpha = \frac{1}{\tg\alpha} = \frac{1}{\sqrt{35}} = \frac{\sqrt{35}}{35}
+\mathrm{ctg}\alpha = \frac{1}{\mathrm{tg}\alpha} = \frac{1}{\sqrt{35}} = \frac{\sqrt{35}}{35}
 `$
 
 f)
 
 $`
-\tg\alpha = \sqrt{5}
+\mathrm{tg}\alpha = \sqrt{5}
 `$
 
 $`
@@ -81,7 +81,7 @@ $`
 `$
 
 $`
-\ctg\alpha = \frac{1}{\tg\alpha} = \frac{1}{\sqrt{5}} = \frac{\sqrt{5}}{5}
+\mathrm{ctg}\alpha = \frac{1}{\mathrm{tg}\alpha} = \frac{1}{\sqrt{5}} = \frac{\sqrt{5}}{5}
 `$
 
 ### 3/216
@@ -159,11 +159,11 @@ P = 16 \sqrt{7}
 ### 8/217
 
 $`
-\tg\alpha = \frac{|OA|}{|AB|} 
+\mathrm{tg}\alpha = \frac{|OA|}{|AB|} 
 `$
 
 $`
-|AB| = \frac{|OA|}{\tg32\degree}
+|AB| = \frac{|OA|}{\mathrm{tg}32\degree}
 `$
 
 $`
@@ -175,11 +175,11 @@ $`
 `$
 
 $`
-\tg\beta = \frac{|OA|}{|AB|}
+\mathrm{tg}\beta = \frac{|OA|}{|AB|}
 `$
 
 $`
-|AC| = \frac{|OA|}{\tg18\degree}
+|AC| = \frac{|OA|}{\mathrm{tg}18\degree}
 `$
 
 $`
@@ -201,11 +201,11 @@ $`
 `$
 
 $`
-\tg\beta = \frac{|SC|}{|BC|}
+\mathrm{tg}\beta = \frac{|SC|}{|BC|}
 `$
 
 $`
-\tg50\degree \approx 1,1918
+\mathrm{tg}50\degree \approx 1,1918
 `$
 
 $`
@@ -217,11 +217,11 @@ $`
 `$
 
 $`
-\tg\alpha = \frac{|SC|}{|AB|+|BC|}
+\mathrm{tg}\alpha = \frac{|SC|}{|AB|+|BC|}
 `$
 
 $`
-\tg29\degree \approx 0,5543
+\mathrm{tg}29\degree \approx 0,5543
 `$
 
 $`

@@ -10,9 +10,9 @@ $`\sin\alpha=\frac{4}{5}`$
 
 $`\cos\alpha=\frac{3}{5}`$
 
-$`\tg\alpha=\frac{4}{3}`$
+$`\mathrm{tg}\alpha=\frac{4}{3}`$
 
-$`\ctg\alpha=\frac{3}{4}`$
+$`\mathrm{ctg}\alpha=\frac{3}{4}`$
 
 **d.** 1, 2
 
@@ -26,9 +26,9 @@ $`\sin\alpha=\frac{2}{\sqrt{5}}\cdot\frac{\sqrt{5}}{\sqrt{5}}=\frac{2\sqrt{5}}{5
 
 $`\cos\alpha=\frac{1}{\sqrt{5}}\cdot\frac{\sqrt{5}}{\sqrt{5}}=\frac{\sqrt{5}}{5}`$
 
-$`\tg\alpha=2`$
+$`\mathrm{tg}\alpha=2`$
 
-$`\ctg\alpha=\frac{1}{2}`$
+$`\mathrm{ctg}\alpha=\frac{1}{2}`$
 
 ### Zadanie 2/10
 
@@ -50,24 +50,24 @@ $`a=24`$
 
 **Uzasadnij, że między funkcjami trygonometrycznymi kąta ostrego a zachodzi podana zależność.**
 
-**d.** $`\ctg\alpha=\frac{\cos\alpha}{\sin\alpha}`$
+**d.** $`\mathrm{ctg}\alpha=\frac{\cos\alpha}{\sin\alpha}`$
 
-$`\ctg\alpha = \frac{1}{\tan\alpha}`$
+$`\mathrm{ctg}\alpha = \frac{1}{\tan\alpha}`$
 
 $`\tan\alpha = \frac{\sin\alpha}{\cos\alpha}`$
 
-$`\ctg\alpha = \frac{1}{\frac{\sin\alpha}{\cos\alpha}} = \frac{\cos\alpha}{\sin\alpha}`$
+$`\mathrm{ctg}\alpha = \frac{1}{\frac{\sin\alpha}{\cos\alpha}} = \frac{\cos\alpha}{\sin\alpha}`$
 
-$`\ctg\alpha = \frac{\cos\alpha}{\sin\alpha}`$
+$`\mathrm{ctg}\alpha = \frac{\cos\alpha}{\sin\alpha}`$
 
-**f.** $`1+\ctg^2\alpha=\frac{1}{\sin^2\alpha}`$
+**f.** $`1+\mathrm{ctg}^2\alpha=\frac{1}{\sin^2\alpha}`$
 
 $`\sin^2\alpha + \cos^2\alpha = 1`$
 
-$`1 + \ctg^2\alpha = 1 + \frac{\cos^2\alpha}{\sin^2\alpha}`$
+$`1 + \mathrm{ctg}^2\alpha = 1 + \frac{\cos^2\alpha}{\sin^2\alpha}`$
 
 $`1 + \frac{\cos^2\alpha}{\sin^2\alpha} = \frac{\sin^2\alpha}{\sin^2\alpha} + \frac{\cos^2\alpha}{\sin^2\alpha} = \frac{\sin^2\alpha + \cos^2\alpha}{\sin^2\alpha}`$
 
 $`\frac{\sin^2\alpha + \cos^2\alpha}{\sin^2\alpha} = \frac{1}{\sin^2\alpha}`$
 
-$`1 + \ctg^2\alpha = \frac{1}{\sin^2\alpha}`$
+$`1 + \mathrm{ctg}^2\alpha = \frac{1}{\sin^2\alpha}`$

@@ -17,7 +17,7 @@
 -   **Okresy podstawowe:**
 
     -   $`\sin(x)`$ i $`\cos(x)`$ mają okres $`2\pi`$: $`\sin(x + 2\pi) = \sin(x)`$ i $`\cos(x + 2\pi) = \cos(x)`$.
-    -   $`\tg(x)`$ i $`\ctg(x)`$ mają okres $`\pi`$: $`\tg(x + \pi) = \tg(x)`$ i $`\ctg(x + \pi) = \ctg(x)`$.
+    -   $`\mathrm{tg}(x)`$ i $`\mathrm{ctg}(x)`$ mają okres $`\pi`$: $`\mathrm{tg}(x + \pi) = \mathrm{tg}(x)`$ i $`\mathrm{ctg}(x + \pi) = \mathrm{ctg}(x)`$.
 
 -   **Wykorzystanie okresowości:** Pozwala uprościć obliczanie wartości funkcji trygonometrycznych dla kątów spoza przedziału $`[0, 2\pi]`$ (lub $`[0, \pi]`$ dla tangensa i cotangensa). Np. $`\sin(3\pi) = \sin(3\pi - 2\pi) = \sin(\pi) = 0`$.
 
@@ -29,7 +29,7 @@
 
     -   **Zmiana funkcji:** Jeśli kąt ma postać $`\frac{\pi}{2} \pm \alpha`$ lub $`\frac{3\pi}{2} \pm \alpha`$, funkcja zmienia się na kofunkcję (sinus na cosinus, tangens na cotangens itd.). Jeśli kąt ma postać $`\pi \pm \alpha`$ lub $`2\pi \pm \alpha`$, funkcja pozostaje bez zmian.
 
-    -   **Znak:** Znak wynikowej funkcji zależy od ćwiartki, w której leży kąt wyjściowy. Np., $`\sin(\pi - \alpha) = \sin(\alpha)`$, $`\cos(\pi + \alpha) = -\cos(\alpha)`$, $`\tg(\frac{3\pi}{2} + \alpha) = -\ctg(\alpha)`$.
+    -   **Znak:** Znak wynikowej funkcji zależy od ćwiartki, w której leży kąt wyjściowy. Np., $`\sin(\pi - \alpha) = \sin(\alpha)`$, $`\cos(\pi + \alpha) = -\cos(\alpha)`$, $`\mathrm{tg}(\frac{3\pi}{2} + \alpha) = -\mathrm{ctg}(\alpha)`$.
 
 -   **Przykład:** $`\cos(\frac{3\pi}{2} - \alpha)`$. Kąt $`\frac{3\pi}{2} - \alpha`$ leży w III ćwiartce, gdzie cosinus jest ujemny. Funkcja zmienia się na sinus. Zatem $`\cos(\frac{3\pi}{2} - \alpha) = -\sin(\alpha)`$.
 
