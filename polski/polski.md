@@ -80,3 +80,5 @@
 -   [Sztuka pozytywistyczna](klasa3/sztuka-pozytywistyczna.md)
 -   [Pozytywiści wobec romantyzmu](klasa3/pozytywisci-wobec-romantyzmu.md)
 -   [Karta pracy - Adam Asnyk Do młodych](klasa3/karta-pracy-adam-asny[k-do-mlodych.md)
+-   [Wokół "Lalki" Bolesława Prusa - informacje wstępne o lekturze](klasa3/wokol-lalki-boleslawa-prusa-informacje-wstepne-o-lekturze.md)
+-   [Stanisław Wokulski - nowoczesny bohater skomplikowany](klasa3/stanislaw-wokulski-nowoczesny-bohater-skomplikowany.md)
