@@ -5,6 +5,7 @@
 ## Spis treści
 
 -   [Klasa 2](#klasa-2)
+-   [Klasa 3](#klasa-3)
 
 ### Klasa 2
 
@@ -60,4 +61,5 @@
 -   [Metan - budowa cząsteczki, otrzymywanie i właściwości](klasa3/metan-budowa-czasteczki-otrzymywanie-i-wlasciwosci.md)
 -   [Szereg homologiczny alkanów](klasa3/szereg-homologiczny-alkanow.md)
 -   [Podstawowe zasady nazewnictwa alkanów](klasa3/podstawowe-zasady-nazewnictwa-alkanow.md)
--   
+-   [Acetylen](klasa3/acetylen.md)
+-   [Benzen](klasa3/benzen.md)

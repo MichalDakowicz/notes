@@ -32,5 +32,3 @@
     -   **Znak:** Znak wynikowej funkcji zależy od ćwiartki, w której leży kąt wyjściowy. Np., $`\sin(\pi - \alpha) = \sin(\alpha)`$, $`\cos(\pi + \alpha) = -\cos(\alpha)`$, $`\mathrm{tg}(\frac{3\pi}{2} + \alpha) = -\mathrm{ctg}(\alpha)`$.
 
 -   **Przykład:** $`\cos(\frac{3\pi}{2} - \alpha)`$. Kąt $`\frac{3\pi}{2} - \alpha`$ leży w III ćwiartce, gdzie cosinus jest ujemny. Funkcja zmienia się na sinus. Zatem $`\cos(\frac{3\pi}{2} - \alpha) = -\sin(\alpha)`$.
-
-$`\mathrm{tg}`$

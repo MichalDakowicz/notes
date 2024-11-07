@@ -40,3 +40,4 @@
 -   [Funkcje trygonometryczne dowolnego kąta](klasa3/funkcje-trygonometryczne-dowolnego-kata.md)
 -   [Kąt obrotu](klasa3/kat-obrotu.md)
 -   [Notatki do kartkówki - Funkcje trygonometryczne](klasa3/notatki-do-kartkowki-funkcje-trygonometryczne.md)
+-   [Rysowanie funkcji sinus i cosinus](klasa3/rysowanie-funkcji-sinus-i-cosinus.md)

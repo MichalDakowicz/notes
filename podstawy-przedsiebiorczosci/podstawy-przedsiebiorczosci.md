@@ -20,3 +20,4 @@
 -   [Formy zatrudnienia](klasa3/formy-zatrudnienia.md)
 -   [Umowy cywilno-prawne](klasa3/umowy-cywilno-prawne.md)
 -   [Umowy zlecenie](klasa3/umowy-zlecenie.md)
+-   [Projekt - nowy produkt](klasa3/projekt-nowy-produkt.md)
