@@ -41,3 +41,4 @@
 -   [Kąt obrotu](klasa3/kat-obrotu.md)
 -   [Notatki do kartkówki - Funkcje trygonometryczne](klasa3/notatki-do-kartkowki-funkcje-trygonometryczne.md)
 -   [Rysowanie funkcji sinus i cosinus](klasa3/rysowanie-funkcji-sinus-i-cosinus.md)
+-   [Rysowanie funkcji tangens i cotangens](klasa3/rysowanie-funkcji-tangens-i-cotangens.md)

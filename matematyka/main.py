@@ -7,6 +7,9 @@ def replace_tg_in_file(file_path):
 
     content = content.replace("\\tg", "\\mathrm{tg}")
     content = content.replace("\\ctg", "\\mathrm{ctg}")
+    content = content.replace("\\operatorname{tg}", "\\mathrm{tg}")
+    content = content.replace("\\operatorname{ctg}", "\\mathrm{ctg}")
+    content = content.replace("\\Z", "\\mathbb{Z}")
 
     with open(file_path, 'w') as file:
         file.write(content)

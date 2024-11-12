@@ -14,3 +14,4 @@
 -   [6 Łączenie tabel - FULL JOIN, SELF JOIN](klasa3/laczenie-tabel-full-join-self-join.md)
 -   [7 Funkcje agregujące](klasa3/funkcje-agregujace.md)
 -   [8 Grupowanie GROUP BY, Klauzula HAVING](klasa3/grupowanie.md)
+-   [Sprawdzian JOIN](klasa3/sprawdzian-join.md)
