@@ -210,6 +210,6 @@ $`-x^2+x\leq1`$
 
 $`-x^2+x-1\leq0`$
 
-$`x\in\R`$
+$`x\in\mathbb{R}`$
 
 **ROZWIĄZANIE** -> $`x\in[0,1]`$

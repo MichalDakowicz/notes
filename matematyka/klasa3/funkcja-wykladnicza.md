@@ -2,7 +2,7 @@
 
 # Funkcja wykładnicza
 
-$`f(x)=a^x`$ dla $`x \in \R`$
+$`f(x)=a^x`$ dla $`x \in \mathbb{R}`$
 
 <hr>
 

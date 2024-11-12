@@ -6,7 +6,7 @@
 
 **WŁAŚCIWOŚCI $`f(x)=\sin(x)`$:**
 
--   $`D=\R`$ (dziedzina: zbiór liczb rzeczywistych)
+-   $`D=\mathbb{R}`$ (dziedzina: zbiór liczb rzeczywistych)
 -   $`Z_w=[-1,1]`$ (zbiór wartości: przedział domknięty od -1 do 1)
 -   $`f\uparrow \text{dla} \space x \in (-\frac{\pi}{2}+2k\pi,\frac{\pi}{2}+2k\pi), k \in \mathbb{Z}`$ (funkcja rosnąca w podanych przedziałach)
 -   $`f\downarrow \text{dla} \space x \in (\frac{\pi}{2}+2k\pi,\frac{3\pi}{2}+2k\pi), k \in \mathbb{Z}`$ (funkcja malejąca w podanych przedziałach)
@@ -21,7 +21,7 @@
 
 **WŁAŚCIWOŚCI $`f(x)=\cos(x)`$:**
 
--   $`D=\R`$ (dziedzina: zbiór liczb rzeczywistych)
+-   $`D=\mathbb{R}`$ (dziedzina: zbiór liczb rzeczywistych)
 -   $`Z_w=[-1,1]`$ (zbiór wartości: przedział domknięty od -1 do 1)
 -   $`f\uparrow \text{dla} \space x \in (\pi+2k\pi,2\pi+2k\pi), k \in \mathbb{Z}`$ (funkcja rosnąca w podanych przedziałach)
 -   $`f\downarrow \text{dla} \space x \in (2k\pi,\pi+2k\pi), k \in \mathbb{Z}`$ (funkcja malejąca w podanych przedziałach)

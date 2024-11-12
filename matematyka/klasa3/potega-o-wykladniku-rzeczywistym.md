@@ -6,7 +6,7 @@ $`\sqrt3 \approx 1,7321`$
 
 $`5^{\sqrt3} \approx 5^{1,7321} \approx 16,2437`$
 
-Dla dowolnych liczb $`a, b \in \R`$ i dowolnych $`x, y \in \R`$ prawdziwe są wzory:
+Dla dowolnych liczb $`a, b \in \mathbb{R}`$ i dowolnych $`x, y \in \mathbb{R}`$ prawdziwe są wzory:
 
 1. $`a^x \cdot a^y = a^{x+y}`$
 2. $`\frac{a^x}{a^y} = a^{x-y}`$

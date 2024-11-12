@@ -4,9 +4,9 @@
 
 $`\log_ax+\log_ay = \log_ax \cdot y`$
 
-$`\log_ax=p \Rightarrow a^p=x`$
+$`\log_ax=p \mathbb{R}ightarrow a^p=x`$
 
-$`\log_ay=q \Rightarrow a^q=y`$
+$`\log_ay=q \mathbb{R}ightarrow a^q=y`$
 
 $`x \cdot y = a^p \cdot a^q = a^{p+q}`$
 
@@ -20,9 +20,9 @@ $`\log_ax \cdot y = \log_ax+\log_ay`$
 
 $`\log_ax - \log_ay = \log_a\frac{x}{y}`$
 
-$`\log_ax=p \Rightarrow a^p=x`$
+$`\log_ax=p \mathbb{R}ightarrow a^p=x`$
 
-$`\log_ay=q \Rightarrow a^q=y`$
+$`\log_ay=q \mathbb{R}ightarrow a^q=y`$
 
 $`\frac{x}{y} = \frac{a^p}{a^q} = a^{p-q}`$
 

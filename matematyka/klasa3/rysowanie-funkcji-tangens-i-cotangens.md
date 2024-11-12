@@ -6,8 +6,8 @@
 
 **WŁAŚCIWOŚCI $`f(x)=\mathrm{tg}(x)`$:**
 
--   $`D = \R \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}`$ (zbiór liczb rzeczywistych bez punktów, w których cosinus jest równy zero)
--   $`Z_w = \R`$ (zbiór wszystkich liczb rzeczywistych)
+-   $`D = \mathbb{R} \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}`$ (zbiór liczb rzeczywistych bez punktów, w których cosinus jest równy zero)
+-   $`Z_w = \mathbb{R}`$ (zbiór wszystkich liczb rzeczywistych)
 -   $`f\uparrow \text{dla} \space x \in (-\frac{\pi}{2} + k\pi, \frac{\pi}{2} + k\pi), k \in \mathbb{Z}`$ (funkcja rosnąca w każdym przedziale określoności)
 -   Funkcja nie jest ograniczona ani z góry, ani z dołu, więc nie ma wartości maksymalnych ani minimalnych.
 -   Asymptoty pionowe: $`x = \frac{\pi}{2} + k\pi, k \in \mathbb{Z}`$
@@ -20,8 +20,8 @@
 
 **WŁAŚCIWOŚCI $`f(x)=\mathrm{ctg}(x)`$:**
 
--   $`D = \R \setminus \{k\pi, k \in \mathbb{Z}\}`$ (zbiór liczb rzeczywistych bez punktów, w których sinus jest równy zero)
--   $`Z_w = \R`$ (zbiór wszystkich liczb rzeczywistych)
+-   $`D = \mathbb{R} \setminus \{k\pi, k \in \mathbb{Z}\}`$ (zbiór liczb rzeczywistych bez punktów, w których sinus jest równy zero)
+-   $`Z_w = \mathbb{R}`$ (zbiór wszystkich liczb rzeczywistych)
 -   $`f\downarrow \text{dla} \space x \in (k\pi, \pi + k\pi), k \in \mathbb{Z}`$ (funkcja malejąca w każdym przedziale określoności)
 -   Funkcja nie jest ograniczona ani z góry, ani z dołu, więc nie ma wartości maksymalnych ani minimalnych.
 -   Asymptoty pionowe: $`x = k\pi, k \in \mathbb{Z}`$
