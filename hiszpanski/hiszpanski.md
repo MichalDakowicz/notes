@@ -38,3 +38,4 @@ znaki - ¡ ¿
 -   [Voy a ir a casa](klasa3/voy-a-ir-a-casa.md)
 -   [Vamos a planear](klasa3/vamos-a-planear.md)
 -   [Propósitos de año nuevo](klasa3/propositos-de-ano-nuevo.md)
+-   [Los medios de transporte](klasa3/los-medios-de-transporte.md)

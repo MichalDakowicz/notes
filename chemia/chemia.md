@@ -63,3 +63,4 @@
 -   [Podstawowe zasady nazewnictwa alkanów](klasa3/podstawowe-zasady-nazewnictwa-alkanow.md)
 -   [Acetylen](klasa3/acetylen.md)
 -   [Benzen](klasa3/benzen.md)
+-   [Węglowodory aromatyczne](klasa3/weglowodory-aromatyczne.md)
