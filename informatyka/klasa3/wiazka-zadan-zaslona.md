@@ -121,7 +121,7 @@ for i in range(liczba_pasow):
     suma_dlugosci_pasow += dlugosc_pasa
 
 
-with open("zadanie_zaslona.txt", "w") as plik:
+with open("informatyka/klasa3/zadanie_zaslona.txt", "w") as plik:
     plik.write("70.1 " + str(round(pozostaly_material, 3)) + "\n")
     plik.write("70.2 " + str(tasma) + "\n")
     plik.write("70.3 " + str(suma_dlugosci_pasow) + "\n")

@@ -12,3 +12,4 @@
 -   [Metody numeryczne](klasa3/metody-numeryczne.md)
 -   [Obliczanie pola powierzchni pod funkcją (całki)](klasa3/obliczanie-pola-powieszchni-po-funkcja-calki.md)
 -   [Wiązka zadań Zasłona](klasa3/wiazka-zadan-zaslona.md)
+-   [Wiązka zadań Dzielniki](klasa3/wiazka-zadan-dzielniki.md)

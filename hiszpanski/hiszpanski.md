@@ -39,3 +39,4 @@ znaki - ¡ ¿
 -   [Vamos a planear](klasa3/vamos-a-planear.md)
 -   [Propósitos de año nuevo](klasa3/propositos-de-ano-nuevo.md)
 -   [Los medios de transporte](klasa3/los-medios-de-transporte.md)
+-   [El avión es más contaminante que el tren](klasa3/el-avion-es-mas-contaminente-que-el-tren.md)
