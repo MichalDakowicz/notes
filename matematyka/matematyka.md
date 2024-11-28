@@ -42,3 +42,5 @@
 -   [Notatki do kartkówki - Funkcje trygonometryczne](klasa3/notatki-do-kartkowki-funkcje-trygonometryczne.md)
 -   [Rysowanie funkcji sinus i cosinus](klasa3/rysowanie-funkcji-sinus-i-cosinus.md)
 -   [Rysowanie funkcji tangens i cotangens](klasa3/rysowanie-funkcji-tangens-i-cotangens.md)
+-   [Tożsamości trygonometryczne](klasa3/tozsamosci-trygonometryczne.md)
+-   [Funkcje trygonometryczne sumy i różnicy kątów](klasa3/funkcje-trygonometryczne-sumy-i-roznicy-katow.md)

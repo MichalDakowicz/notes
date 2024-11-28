@@ -40,3 +40,5 @@ znaki - ¡ ¿
 -   [Propósitos de año nuevo](klasa3/propositos-de-ano-nuevo.md)
 -   [Los medios de transporte](klasa3/los-medios-de-transporte.md)
 -   [El avión es más contaminante que el tren](klasa3/el-avion-es-mas-contaminente-que-el-tren.md)
+-   [En la estación](klasa3/en-la-estacion.md)
+-   [Diga](klasa3/diga.md)
