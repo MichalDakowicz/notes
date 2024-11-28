@@ -118,7 +118,7 @@ def rozwiaz_61_3():
 
 rozwiaz_61_1()
 rozwiaz_61_2()
-rozwiaz_61_3(
+rozwiaz_61_3()
 ```
 
 **Odpowiedzi: [wynik1.txt](61/wynik1.txt), [wynik2.txt](61/wynik2.txt), [wynik3.txt](61/wynik3.txt)**
