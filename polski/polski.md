@@ -83,3 +83,4 @@
 -   [Wokół "Lalki" Bolesława Prusa - informacje wstępne o lekturze](klasa3/wokol-lalki-boleslawa-prusa-informacje-wstepne-o-lekturze.md)
 -   [Stanisław Wokulski - nowoczesny bohater skomplikowany](klasa3/stanislaw-wokulski-nowoczesny-bohater-skomplikowany.md)
 -   [Obraz arystokracji w "Lalce"](klasa3/obraz-arystokracji-w-lalce.md)
+-   [5. Podróże - sposób na poznanie świata i samego siebie](klasa3/5-podroze-sposob-na-poznanie-swiata-i-samego-siebie.md)
