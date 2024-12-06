@@ -89,3 +89,4 @@
 | **Tajemnicze zniknięcie:** Otwarte zakończenie, możliwość interpretacji jako ucieczki przed światem i samotniczego życia – romantyczny motyw.                                | **Pomoc potrzebującym (np. Wysockiemu, Szlangbaumowi):** Praca u podstaw, filantropia, działalność społeczna – ważne wartości pozytywizmu.        |
 | **Pojedynki, napaść w Łazienkach:** Elementy romantycznej awanturniczości, spontaniczne reakcje, brak kalkulacji.                                                            | **Chęć zreformowania społeczeństwa:** Racjonalne podejście do problemów społecznych, wiara w postęp, chęć edukacji mas – cechy pozytywisty.       |
 | **Niespełniona miłość, idealizacja Izabeli:** ból istnienia, pesymizm, przeżywanie nieszczęśliwej miłości.                                                                   | **Skupienie na nauce, zdobywanie wiedzy i wykształcenia:** wiara w potęgę rozumu i edukacji.                                                      |
+

@@ -32,7 +32,7 @@
 
 Oba zestawy argumentów wskazują na złożoność tematu oceniania w szkołach oraz jego wpływ na motywację uczniów do nauki.
 
-Citations:
+Źródła:
 
 [1] https://www.edunews.pl/system-edukacji/szkoly/6478-rodzice-a-odejscie-od-oceniania-stopniami
 

@@ -6,6 +6,7 @@
 
 -   [Klasa 1](#klasa-1)
 -   [Klasa 2](#klasa-2)
+-   [Klasa 3](#klasa-3)
 
 ### Klasa 1
 
@@ -45,3 +46,7 @@
 -   [Pierwszy rozbiór Polski](klasa2/pierwszy-rozbiór-polski.md)
 -   [Reformy Stanisława Augusta Poniatowskiego](klasa2/reformy-stanislawa-augusta-poniatowskiego.md)
 -   [Konstytucja 3 maja](klasa2/konstytucja-3-maja.md)
+
+### Klasa 3
+
+-   [Przemiany cywilizacyjne w II połowie XIX w.](klasa3/przemiany-cywilizacyjne-w-ii-polowie-xix-w.md)

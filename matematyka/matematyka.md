@@ -6,6 +6,7 @@
 
 -   [Klasa 1](#klasa-1)
 -   [Klasa 2](#klasa-2)
+-   [Klasa 3](#klasa-3)
 
 ### Klasa 1
 
@@ -44,3 +45,7 @@
 -   [Rysowanie funkcji tangens i cotangens](klasa3/rysowanie-funkcji-tangens-i-cotangens.md)
 -   [Tożsamości trygonometryczne](klasa3/tozsamosci-trygonometryczne.md)
 -   [Funkcje trygonometryczne sumy i różnicy kątów](klasa3/funkcje-trygonometryczne-sumy-i-roznicy-katow.md)
+
+-   [Na ocene](klasa3/na-ocene.md)
+
+-   [Dowodzenie w trygonometrii](klasa3/dowodzenie-w-trygonometrii.md)

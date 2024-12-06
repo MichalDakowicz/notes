@@ -82,3 +82,4 @@
 -   [Karta pracy - Adam Asnyk Do młodych](klasa3/karta-pracy-adam-asny[k-do-mlodych.md)
 -   [Wokół "Lalki" Bolesława Prusa - informacje wstępne o lekturze](klasa3/wokol-lalki-boleslawa-prusa-informacje-wstepne-o-lekturze.md)
 -   [Stanisław Wokulski - nowoczesny bohater skomplikowany](klasa3/stanislaw-wokulski-nowoczesny-bohater-skomplikowany.md)
+-   [Obraz arystokracji w "Lalce"](klasa3/obraz-arystokracji-w-lalce.md)
