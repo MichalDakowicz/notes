@@ -44,3 +44,4 @@ znaki - ¡ ¿
 -   [Diga](klasa3/diga.md)
 -   [¿Qué estás haciendo?](klasa3/que-estas-haciendo.md)
 -   [A las 7:00 estoy duchándome](klasa3/a-las-7-estoy-duchandome.md)
+-   [Pablo esta barriendo](klasa3/pablo-esta-barriendo.md)

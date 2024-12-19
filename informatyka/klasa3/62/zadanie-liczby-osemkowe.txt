@@ -1,0 +1,14 @@
+Zadanie 1
+Największa liczba w ósemkowym: 777044
+Najmniejsza liczba w ósemkowym: 1002
+
+Zadanie 2
+Najdłuższy niemalejący ciąg liczb rozpoczyna się liczbą 639 i składa się z 6 elementów.
+
+Zadanie 3
+a) Liczba wierszy z taką samą wartością: 160
+b) Liczba wierszy, gdzie liczba z liczby1.txt jest większa: 357
+
+Zadanie 4
+Cyfra 6 w systemie dziesiętnym: 411
+Cyfra 6 w systemie ósemkowym: 625
