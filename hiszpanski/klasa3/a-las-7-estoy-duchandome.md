@@ -20,3 +20,4 @@
 | hacer la cano              | pościelić łóżko                |
 | regar las plantas          | podlewać rośliny               |
 | cocer                      | szyć                           |
+| quitar el polvo            | ścierać kurze                  |
