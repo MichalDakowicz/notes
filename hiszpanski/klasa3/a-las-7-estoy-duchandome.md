@@ -21,3 +21,4 @@
 | regar las plantas          | podlewać rośliny               |
 | cocer                      | szyć                           |
 | quitar el polvo            | ścierać kurze                  |
+| lavar la ropa              | prać                           |

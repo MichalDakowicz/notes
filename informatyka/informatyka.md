@@ -17,4 +17,5 @@
 -   [Wiązka zadań Liczby ósemkowe](klasa3/wizaka-zadan-liczby-osemkowe.md)
 -   [Schemat Hornera](klasa3/schemat-hornera.md)
 -   [Wiązka zadań Ciągi zerojedynkowe](klasa3/wiazka-zadan-ciagi-zerodynkowe.md)
--   [Metody Sortowania](metody-sortowania.md)
+-   [Metody Sortowania](klasa3/metody-sortowania.mdmetody-sortowania.md)
+-   [Wiązka zadań Ułamki](klasa3/wiazka-zadan-ulamki.md)
