@@ -46,4 +46,4 @@ znaki - ¡ ¿
 -   [A las 7:00 estoy duchándome](klasa3/a-las-7-estoy-duchandome.md)
 -   [Pablo esta barriendo](klasa3/pablo-esta-barriendo.md)
 -   [Sigo estudiando](klasa3/sigo-estudiando.md)
-
+-   [¿Cómo te ha ido el día?](klasa3/como-te-ha-ido-el-dia.md)
