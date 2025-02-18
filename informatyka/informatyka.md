@@ -8,7 +8,7 @@
 
 ### Klasa 3
 
--   [Miejsce zerowe f() metodą przybliżenia](klasa3/miejsce-zerowe-f()-metoda-przyblizenia.md)
+-   [Miejsce zerowe f() metodą przybliżenia](<klasa3/miejsce-zerowe-f()-metoda-przyblizenia.md>)
 -   [Metody numeryczne](klasa3/metody-numeryczne.md)
 -   [Obliczanie pola powierzchni pod funkcją (całki)](klasa3/obliczanie-pola-powieszchni-po-funkcja-calki.md)
 -   [Wiązka zadań Zasłona](klasa3/wiazka-zadan-zaslona.md)
@@ -19,3 +19,4 @@
 -   [Wiązka zadań Ciągi zerojedynkowe](klasa3/wiazka-zadan-ciagi-zerodynkowe.md)
 -   [Metody Sortowania](klasa3/metody-sortowania.mdmetody-sortowania.md)
 -   [Wiązka zadań Ułamki](klasa3/wiazka-zadan-ulamki.md)
+-   [Wiązka zadań Trójki liczb](klasa3/wiazka-zadan-trojki-liczb.md)
