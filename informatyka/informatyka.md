@@ -20,3 +20,4 @@
 -   [Metody Sortowania](klasa3/metody-sortowania.mdmetody-sortowania.md)
 -   [Wiązka zadań Ułamki](klasa3/wiazka-zadan-ulamki.md)
 -   [Wiązka zadań Trójki liczb](klasa3/wiazka-zadan-trojki-liczb.md)
+-   [Wiązka zadań Napisy - anagramy](klasa3/wiazka-zadan-napisy-anagramy.md)
