@@ -21,3 +21,6 @@
 -   [Wiązka zadań Ułamki](klasa3/wiazka-zadan-ulamki.md)
 -   [Wiązka zadań Trójki liczb](klasa3/wiazka-zadan-trojki-liczb.md)
 -   [Wiązka zadań Napisy - anagramy](klasa3/wiazka-zadan-napisy-anagramy.md)
+-   [Wiązka zadań Podobne napisy](klasa3/wiazka-zadan-podobne-napisy.md)
+
+
