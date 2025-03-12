@@ -65,3 +65,4 @@
 -   [Benzen](klasa3/benzen.md)
 -   [Węglowodory aromatyczne](klasa3/weglowodory-aromatyczne.md)
 -   [Budowa, nazewnictwo i otrzymywanie alkoholi monohydroksylowych](klasa3/budowa-nazewnictwo-i-otrzymywanie-alkoholi-monohydroksylowych.md)
+-   [Alkohole polihydroksylowe](klasa3/alkohole-polihydroksylowe.md)

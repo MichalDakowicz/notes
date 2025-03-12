@@ -48,3 +48,4 @@ znaki - ¡ ¿
 -   [Sigo estudiando](klasa3/sigo-estudiando.md)
 -   [¿Cómo te ha ido el día?](klasa3/como-te-ha-ido-el-dia.md)
 -   [¡Me han robado!](klasa3/me-han-robado.md)
+-   [Los Sospechosos](klasa3/los-sospechosos.md)

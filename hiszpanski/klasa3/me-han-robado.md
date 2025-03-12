@@ -66,8 +66,6 @@ huir - uciekać
 
 llamar a la policía - zadzwonić na policje
 
-
-
 ---
 
 (Juan) ha desayunado un gato frito.
@@ -75,4 +73,3 @@ llamar a la policía - zadzwonić na policje
 David no se ha duchando.
 
 Juan ha escrito una carta.
-
