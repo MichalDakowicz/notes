@@ -87,3 +87,4 @@
 -   [Izabela Łęcka - "Wszystko w niej było oryginalne i doskonałe"... czy aby na pewno?](klasa3/izabela-lecka-wszystko-w-niej-bylo-orginalne-i-doskonale-czy-aby-na-pewno.md)
 -   [Warszawa Prusa](klasa3/warszawa-[prusa.md)
 -   ["Wieża paryska" B. Prusa jako przykład...](klasa3/wieza-paryska-b-prusa-jako-przyklad.md)
+-   [Nazywam się Kmicic, Andrzej Kmicic](klasa3/nazywam-sie-kmicic-andrzej-kmicic.md)
