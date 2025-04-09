@@ -49,3 +49,7 @@ znaki - ¡ ¿
 -   [¿Cómo te ha ido el día?](klasa3/como-te-ha-ido-el-dia.md)
 -   [¡Me han robado!](klasa3/me-han-robado.md)
 -   [Los Sospechosos](klasa3/los-sospechosos.md)
+-   [Hoy ha sido un día horrible](klasa3/hoy-ha-sido-un-dia-horrible.md)
+-   [Las experiencias alucinantes](klasa3/las-experiencias-alucinantes.md)
+-   [La experiencia de Edurne Pasaban](klasa3/la-experiencia-de-edurne-pasaban.md)
+-   [¿Cómo eres de aventurero?](klasa3/como-eres-de-aventurero.md)

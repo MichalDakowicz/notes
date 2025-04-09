@@ -88,3 +88,7 @@
 -   [Warszawa Prusa](klasa3/warszawa-[prusa.md)
 -   ["Wieża paryska" B. Prusa jako przykład...](klasa3/wieza-paryska-b-prusa-jako-przyklad.md)
 -   [Nazywam się Kmicic, Andrzej Kmicic](klasa3/nazywam-sie-kmicic-andrzej-kmicic.md)
+-   [W kręgu zbrodni i kary](klasa3/w-kregu-zbrodni-i-kary.md)
+-   [Poglądy filozoficzne Fryderyka Nietzsche](klasa3/poglady-filozoficzne-fryderyka-nietzsche.md)
+-   [Rodion Raskolnikow. Zbrodnia](klasa3/rodion-raskolnikow-zbrodnia.md)
+-   [Mysz która zjadła kota - Sonia kontra Rodion](klasa3/mysz-ktora-zjadla-kota-sonia-kontra-rodion.md)

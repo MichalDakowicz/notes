@@ -42,4 +42,3 @@
 -   [Czynniki lokalizacji zakładów przemysłowych](klasa3/czynniki-lokalizacji-zakladow-przemyslowych.md)
 -   [Wybór lokalizacji dla Tesla, Toyota, Nestlé i Intel](klasa3/wybor-lokalizacji-dla-tesla-toyota-nestle-i-intel.md)
 -   [Przemysł tradycyjny a nowoczesny technologii](klasa3/przemysl-tradycyjny-a-nowoczesny-tehnologii.md)
-
