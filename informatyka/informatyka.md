@@ -23,4 +23,7 @@
 -   [Wiązka zadań Napisy - anagramy](klasa3/wiazka-zadan-napisy-anagramy.md)
 -   [Wiązka zadań Podobne napisy](klasa3/wiazka-zadan-podobne-napisy.md)
 -   [73](klasa3/73.md)
-
+-   [74](klasa3/74.py)
+-   [75](klasa3/75.py)
+-   [76](klasa3/76.py)
+-   [77](klasa3/77.py)
