@@ -25,3 +25,4 @@
 -   [Unit 1 sheet](klasa3/unit-1-sheet.md)
 -   [Email - kurs na przewodnika turystycznego](klasa3/email-kurs-na-przewodnika-turystycznego.md)
 -   [Essay - History of Halloween](klasa3/essay-history-of-halloween.md)
+-   [Rozprawka zadania](klasa3/rozprawka-zadania.md)

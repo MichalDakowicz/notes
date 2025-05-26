@@ -25,3 +25,5 @@
 -   [Energia wewnętrzna](klasa3/energia-wewnetrzna.md)
 -   [Ciepło parowania i ciepło topnienia](klasa3/cieplo-parowania-i-cieplo-topnienia.md)
 -   [Prawo Hooke'a](klasa3/prawo-hookea.md)
+-   [Badanie wahadła sprężynowego](klasa3/badanie-wahadlda-sprezynowego.md)
+-   []

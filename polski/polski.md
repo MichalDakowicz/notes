@@ -94,3 +94,5 @@
 -   [Mysz która zjadła kota - Sonia kontra Rodion](klasa3/mysz-ktora-zjadla-kota-sonia-kontra-rodion.md)
 -   [Rozprawka Zbrodnia i Kara](klasa3/rozprawka-zbrodnia-i-kara.md)
 -   [Dlaczego zabiłem? Analiza rozmowy Rodiona Raskolnikowa i Soni Marmieładow](klasa3/dlaczego-zabilem.md)
+-   [Powtórzenie pozytywizm](klasa3/powtorzenie-pozytywizm.md)
+-   [Młoda Polska](klasa3/mloda-polska.md)

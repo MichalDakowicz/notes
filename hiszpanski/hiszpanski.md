@@ -54,3 +54,4 @@ znaki - ¡ ¿
 -   [La experiencia de Edurne Pasaban](klasa3/la-experiencia-de-edurne-pasaban.md)
 -   [¿Cómo eres de aventurero?](klasa3/como-eres-de-aventurero.md)
 -   [¿Alguna vez has estado en la comisaria?](klasa3/alguna-vez-has-estado-en-la-comisaria.md)
+-   [Buscando el trabajo](klasa3/buscando-el-trabajo.md)

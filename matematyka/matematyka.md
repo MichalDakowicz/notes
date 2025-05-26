@@ -49,3 +49,5 @@
 -   [Na ocene](klasa3/na-ocene.md)
 
 -   [Dowodzenie w trygonometrii](klasa3/dowodzenie-w-trygonometrii.md)
+
+-   [POMOCY](klasa3/POMOCY.md)
