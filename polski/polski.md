@@ -96,3 +96,4 @@
 -   [Dlaczego zabiłem? Analiza rozmowy Rodiona Raskolnikowa i Soni Marmieładow](klasa3/dlaczego-zabilem.md)
 -   [Powtórzenie pozytywizm](klasa3/powtorzenie-pozytywizm.md)
 -   [Młoda Polska](klasa3/mloda-polska.md)
+-   [Kto jest kim w "Weselu"?](klasa3/kto-jest-kim-w-weselu.md)

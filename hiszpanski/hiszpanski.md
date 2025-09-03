@@ -55,3 +55,4 @@ znaki - ¡ ¿
 -   [¿Cómo eres de aventurero?](klasa3/como-eres-de-aventurero.md)
 -   [¿Alguna vez has estado en la comisaria?](klasa3/alguna-vez-has-estado-en-la-comisaria.md)
 -   [Buscando el trabajo](klasa3/buscando-el-trabajo.md)
+-   [Experiencias alucinantes](klasa3/experiencias-alucinantes.md)
